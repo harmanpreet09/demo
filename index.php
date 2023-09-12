@@ -9,7 +9,7 @@
     <h1>
     <?php
     $greeting="Hello";
-    echo $greeting . " " ." everbody!";
+    echo $greeting . " " ." Everbody!";
        ?>
     </h1>
    
