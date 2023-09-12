@@ -5,10 +5,12 @@
     <title>Demo</title>
 </head>
 <body>
-<?php
+
     <h1>
-        Hello world
+    <?php
+       echo "Hello world"; 
+       ?>
     </h1>
-    ?>
+   
 </body>
 </html>
